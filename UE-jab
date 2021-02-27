@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T11:53:48.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9ObeiM7eClHfZaQzaOSl" version="13.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T11:56:42.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="TLwovDo_k5G1g3nKFb_9" version="13.7.0" type="github">
   <diagram id="HqQcvQmGDaIuMSPbbvi7" name="Page-1">
     <mxGraphModel dx="1123" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="1227" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="RLeqCT_yU0_cPiWqNGCq-19" value="Footer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="293" y="1140" width="258" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RLeqCT_yU0_cPiWqNGCq-20" value="Note: The news is the Blog. Totally CMS made, probably in datoCMS." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="76" y="280" width="430" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
